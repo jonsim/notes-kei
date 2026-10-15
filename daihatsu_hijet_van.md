@@ -5,7 +5,7 @@ description: Part of a series exploring the design and specs of the Daihatsu Hij
 tags: Cars, JDM
 ---
 
-The Hijet Van was renamed Hijet Cargo in 1999, when it changed from cabover to semi-cabover. The passenger-focused Atrai became a separate model in 1994.
+The Hijet Van was renamed Hijet Cargo in 1999, when it changed from cabover to semi-cabover. The passenger-focused Atrai became a separate model in 1994; it should not be treated as a Hijet Cargo trim even when the two share a body or model code.
 
 # 5th Generation
 
@@ -110,3 +110,15 @@ The Hijet Van was renamed Hijet Cargo in 1999, when it changed from cabover to s
 * **Drivetrain:** RWD (S700V); selectable part-time 4WD (S710V)
 * **Transmission:** 5-speed manual
 * **Notes:** DNGA-based redesign with a squarer cargo body. Front disc brakes, dual airbags, ABS and stability control are standard; Smart Assist is available. Deck Van models use S700W/S710W codes.
+
+# Battery-electric Model
+
+## S781V - e-Hijet Cargo
+
+![](images/e-hijet-s781v.jpg)
+
+* **Production:** 2026-present
+* **Motor:** 1CG AC synchronous motor (64 PS; 126 Nm)
+* **Drivetrain:** RWD
+* **Transmission:** Single-speed reduction gear
+* **Notes:** Purpose-built electric derivative of the S700-series body, with a rear e-Axle and a 36.6kWh LFP battery beneath the floor. WLTC range is 257km and two- and four-seat versions are offered. The passenger-focused e-Atrai is a separate model despite also carrying the S781V code, so the chassis code alone does not distinguish the two.

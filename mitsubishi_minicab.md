@@ -5,7 +5,7 @@ description: Part of a series exploring the design and specs of the Mitsubishi M
 tags: Notes, Cars, JDM
 ---
 
-Mitsubishi-developed Minicab Trucks ran through 2014. Subsequent models are rebadged Suzuki Carry trucks.
+Mitsubishi-developed petrol Minicab Trucks ran through 2014. Subsequent petrol models are rebadged Suzuki Carry trucks; the short-lived U68T electric truck remained Mitsubishi-developed.
 
 # 3rd Generation
 
@@ -74,6 +74,16 @@ Mitsubishi-developed Minicab Trucks ran through 2014. Subsequent models are reba
 * **Drivetrain:** RWD (U61T); selectable part-time 4WD (U62T)
 * **Transmission:** 5-speed manual
 * **Notes:** Wider semi-cabover body meeting the 1998 kei rules. Air conditioning, power steering, airbags and ABS varied by grade; the Minori agricultural version joined in 2006.
+
+## U68T - Minicab-MiEV Truck
+
+![](images/minicab-u68t-ev.jpg)
+
+* **Production:** 2013-2016
+* **Motor:** Y4F1 permanent-magnet synchronous motor (41 PS; 196 Nm)
+* **Drivetrain:** RWD
+* **Transmission:** Single-speed reduction gear
+* **Notes:** Factory electric pickup based on the U61T body, with a 10.5kWh drive battery and a 110km JC08-rated range. It is not a conversion and should not be conflated with the longer-lived U68V Minicab-MiEV van. Mitsubishi discontinued it without a direct replacement.
 
 # 7th Generation
 

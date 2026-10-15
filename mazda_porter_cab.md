@@ -9,7 +9,7 @@ The Porter Cab was Mazda's independently developed cabover kei truck. It remaine
 
 # 1st Generation
 
-## KECA53 / KECB53 - 360cc
+## KECA53 / PC3A - 360cc
 
 ![](images/porter-keca53.jpg)
 
@@ -17,7 +17,7 @@ The Porter Cab was Mazda's independently developed cabover kei truck. It remaine
 * **Engine:** CC 359cc air-cooled two-stroke I2, carburettor (23 PS); AA 359cc water-cooled two-stroke I2, carburettor (29-30 PS, from 1973)
 * **Drivetrain:** RWD
 * **Transmission:** 4-speed manual
-* **Notes:** Two-stroke models require dedicated two-stroke oil.
+* **Notes:** The original air-cooled KECA53 gained wind-down door glass and front ventilation in 1970. Mazda replaced the CC engine with the more powerful water-cooled AA in 1973, then introduced the emissions-compliant PC3A in April 1976. The 1975 update accommodated larger registration plates and PC3A trucks were painted white; two-stroke models require dedicated two-stroke oil. KECB53 is sometimes quoted in listings but belongs neither to this Porter Cab sequence nor to the later 550cc trucks.
 
 ## PC4D - 550cc
 

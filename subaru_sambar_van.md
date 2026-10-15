@@ -5,7 +5,7 @@ description: Part of a series exploring the design and specs of the Subaru Samba
 tags: Notes, Cars, JDM
 ---
 
-Subaru-developed Sambar Vans used a rear-engine layout and four-wheel independent suspension through 2012. Later models are rebadged Daihatsu Hijet Cargo vans.
+Subaru-developed Sambar Vans used a rear-engine layout and four-wheel independent suspension through 2012. Try and Dias began as passenger-focused grades of the commercial van, while the 1999-on Dias Wagon used separate TW-series passenger-car codes. Later Sambar Vans are rebadged Daihatsu Hijet Cargo vans.
 
 # 3rd Generation
 
@@ -53,7 +53,7 @@ Subaru-developed Sambar Vans used a rear-engine layout and four-wheel independen
 
 # 5th Generation
 
-## KV3 / KV4
+## KV3 / KV4 - Van and Dias
 
 ![](images/sambar-kv3.jpg)
 
@@ -61,7 +61,7 @@ Subaru-developed Sambar Vans used a rear-engine layout and four-wheel independen
 * **Engine:** EN07 658cc SOHC I4, carburettor or EFI (40-46 PS); supercharged EFI (55 PS)
 * **Drivetrain:** RWD (KV3); part-time or full-time 4WD (KV4, depending on grade)
 * **Transmission:** 5-speed manual
-* **Notes:** First four-cylinder Sambar Van. Passenger-focused Try/Dias, twin-sunroof and retro Classic versions were offered; air conditioning and power steering were available.
+* **Notes:** First four-cylinder Sambar Van. The photograph shows a high-grade Dias, but it retains the KV commercial-van chassis and body. Twin-sunroof versions were available, while the Classic introduced in 1993 had a deliberately retro round-headlamp nose and should not be mistaken for the standard front. Air conditioning and power steering were available.
 
 # 6th Generation
 
@@ -73,7 +73,11 @@ Subaru-developed Sambar Vans used a rear-engine layout and four-wheel independen
 * **Engine:** EN07 658cc SOHC I4, EFI (46-48 PS); supercharged EFI (58 PS)
 * **Drivetrain:** RWD (TV1); selectable part-time 4WD (TV2)
 * **Transmission:** 5-speed manual
-* **Notes:** Last Subaru-developed Sambar Van, retaining the rear engine and four-wheel independent suspension. Driver airbag was standard; air conditioning and ABS varied by grade.
+* **Notes:** Last Subaru-developed Sambar Van, retaining the rear engine and four-wheel independent suspension. Driver airbag was standard; air conditioning and ABS varied by grade. The similarly shaped Dias Wagon is TW1/TW2 and is a distinct passenger model rather than another name for the TV-series van.
+
+### Sambar EV
+
+Subaru added a low-volume factory electric van in December 2000. It used two-wheel drive and a fixed reduction gear, with planned production of only 35 vehicles per year. This was a factory TV-series derivative, not one of the later aftermarket EV conversions sometimes seen for sale.
 
 # 7th Generation
 

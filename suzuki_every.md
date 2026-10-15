@@ -5,7 +5,7 @@ description: Part of a series exploring the design and specs of the Suzuki Every
 tags: Notes, Cars, JDM
 ---
 
-The Every name appeared on passenger-focused Carry Van grades in 1982; Carry Van branding ended in 1993 and Every Wagon split off in 1999.
+The Every name appeared on passenger-focused Carry Van grades in 1982; Carry Van branding ended in 1993 and Every Wagon split off as a distinct passenger model in 1999. Earlier upper-grade Everys are still V-code commercial vans, whereas later Every Wagon photographs should not be used to represent the cargo models below.
 
 # 7th Generation
 
@@ -108,3 +108,15 @@ The Every name appeared on passenger-focused Carry Van grades in 1982; Carry Van
 * **Drivetrain:** RWD; selectable part-time 4WD
 * **Transmission:** 5-speed manual
 * **Notes:** Updated front styling and digital instruments. Air conditioning, front disc brakes, dual airbags, ABS and stability control are standard.
+
+# Battery-electric Model
+
+## S781Z - e Every
+
+![](images/e-every-s781z.png)
+
+* **Production:** 2026-present
+* **Motor:** 1CG AC synchronous motor (64 PS; 126 Nm)
+* **Drivetrain:** RWD
+* **Transmission:** Single-speed reduction gear
+* **Notes:** Suzuki's electric commercial van is distinct from the petrol DA18V. Its jointly developed EV system and body structure are shared with the Daihatsu e-Hijet Cargo, with Suzuki-specific badging and equipment. A 36.6kWh LFP battery provides a 257km WLTC range; two- and four-seat versions are offered.

@@ -5,7 +5,7 @@ description: Part of a series exploring the design and specs of the Mitsubishi M
 tags: Notes, Cars, JDM
 ---
 
-Mitsubishi-developed Minicab Vans ran through 2014. Subsequent manual models are rebadged Suzuki Every vans.
+Mitsubishi-developed petrol Minicab Vans ran through 2014. Subsequent petrol/manual models are rebadged Suzuki Every vans, while Mitsubishi's U67V/U68V and U69V electric vans form a separate, Mitsubishi-developed branch. Estate, Bravo and Town Box were passenger-focused derivatives rather than interchangeable names for the cargo van.
 
 # 3rd Generation
 
@@ -17,7 +17,7 @@ Mitsubishi-developed Minicab Vans ran through 2014. Subsequent manual models are
 * **Engine:** 2G22 471cc SOHC I2, carburettor (28 PS)
 * **Drivetrain:** RWD
 * **Transmission:** 4-speed manual
-* **Notes:** Short-lived interim 500cc model; the rear side doors changed from hinged to sliding.
+* **Notes:** Short-lived interim 500cc model; the rear side doors changed from hinged to sliding. Like other early interim kei models, it met the new length limit with extended bumpers while retaining the narrow body—the later Wide 55 shown below is visibly broader.
 
 ## L013PV / L015PV / L015GV - Wide 55
 
@@ -27,7 +27,7 @@ Mitsubishi-developed Minicab Vans ran through 2014. Subsequent manual models are
 * **Engine:** 2G23/G23B 546cc SOHC I2, carburettor (29-31 PS)
 * **Drivetrain:** RWD (L013PV/L015PV); selectable part-time 4WD (L015GV, from 1982)
 * **Transmission:** 4-speed manual
-* **Notes:** The better-equipped Estate joined in 1981; 4WD followed in 1982.
+* **Notes:** The wider 550cc body replaced the interim Minicab 5. The better-equipped Estate passenger derivative joined in 1981; 4WD followed in 1982.
 
 # 4th Generation
 
@@ -74,6 +74,28 @@ Mitsubishi-developed Minicab Vans ran through 2014. Subsequent manual models are
 * **Drivetrain:** RWD (U61V); selectable part-time 4WD (U62V)
 * **Transmission:** 5-speed manual
 * **Notes:** Wider semi-cabover body with a long wheelbase. Dual airbags became standard in 2004; air conditioning and ABS varied by grade. Town Box was the passenger derivative.
+
+# Battery-electric Branch
+
+## U67V / U68V - Minicab-MiEV
+
+![](images/minicab-u68v-ev.jpg)
+
+* **Production:** 2011-2023
+* **Motor:** Y4F1 permanent-magnet synchronous motor (41 PS; 196 Nm)
+* **Drivetrain:** RWD
+* **Transmission:** Single-speed reduction gear
+* **Notes:** Electric version of the sixth-generation Mitsubishi body, initially offered with 10.5kWh or 16kWh batteries. U67V denotes the 10.5kWh van and U68V the 16kWh version; the short-lived U68T Minicab-MiEV Truck was a separate pickup. Unlike the petrol Minicab, the electric van remained Mitsubishi-built after 2014. General sales resumed in November 2022 after a production pause.
+
+## U69V - Minicab EV
+
+![](images/minicab-u69v-ev.png)
+
+* **Production:** 2023-present
+* **Motor:** YA1 permanent-magnet synchronous motor (42 PS; 195 Nm)
+* **Drivetrain:** RWD
+* **Transmission:** Single-speed reduction gear
+* **Notes:** Heavily updated successor to the Minicab-MiEV, retaining the Mitsubishi body rather than adopting the Suzuki Every shell. A 20kWh battery provides a 180km WLTC range; two- and four-seat versions are offered.
 
 # 7th Generation
 

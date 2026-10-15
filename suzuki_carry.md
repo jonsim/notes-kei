@@ -96,3 +96,7 @@ The Carry used a cabover layout through 1998, adopted a semi-cabover design in 1
 * **Drivetrain:** RWD; selectable part-time 4WD
 * **Transmission:** 5-speed manual
 * **Notes:** Returned to a short-wheelbase cabover layout. The extended-cab Super Carry joined in 2018. Air conditioning and safety equipment vary by year and grade; agricultural 4WD manuals add low range and a locking rear differential.
+
+### Super Carry
+
+The 2018-on Super Carry is a factory extended-cab body within the DA16 family, not a separate generation. It moves the rear cab wall back, adds reclining seats and creates an upper load-deck section beneath the rear window, trading some full-width bed length for cabin space. A DA16 chassis code therefore does not by itself identify the standard cab or Super Carry body.

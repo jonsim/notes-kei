@@ -98,3 +98,7 @@ Earlier pickups were sold as the Hijet 55 Wide Pick or Hijet Pick; the Hijet Tru
 * **Drivetrain:** RWD (S500P); selectable part-time 4WD (S510P)
 * **Transmission:** 5-speed manual
 * **Notes:** Jumbo extended-cab versions continued and Smart Assist joined the range in 2018. Agricultural 4WD manuals add high/low range and a locking rear differential.
+
+### Standard Cab and Jumbo
+
+S500P/S510P covers both the standard cab and the factory Jumbo extended cab, so the chassis code alone does not identify the body. The Jumbo has a taller, deeper cab with reclining seats and storage space behind them; the later Jumbo Extra is a higher-equipment version of that body rather than another generation.

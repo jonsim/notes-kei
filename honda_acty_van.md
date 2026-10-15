@@ -5,7 +5,7 @@ description: Part of a series exploring the design and specs of the Honda Acty V
 tags: Notes, Cars, JDM
 ---
 
-The Acty Van used a mid-engine layout throughout production, with the engine mounted beneath the cargo floor. The first two generations also had a more passenger-focused Street derivative.
+The Acty Van used a mid-engine layout throughout production, with the engine mounted beneath the cargo floor. Honda sold the passenger-focused Street alongside the first two generations, but it was a separate model with different trim and, on some versions, a different front treatment; Street photographs are therefore not used here as stand-ins for Acty Vans.
 
 # 1st Generation
 
@@ -31,15 +31,15 @@ The Acty Van used a mid-engine layout throughout production, with the engine mou
 
 # 2nd Generation
 
-## HH1 / HH2 - 550cc
+## HH1 / HH2 - 550cc, round-headlamp grades
 
 ![](images/acty-hh1.jpg)
 
 * **Production:** 1988-1990
 * **Engine:** E05A 547cc SOHC 12-valve I3, carburettor (34 PS)
 * **Drivetrain:** RWD (HH1); Real Time 4WD (HH2)
-* **Transmission:** 4/5-speed manual
-* **Notes:** High-roof-only body with dual sliding doors and flat-folding rear seats. The 550cc engine is noticeably slower than the later 660cc model. Rare PRO-T versions use tandem seating.
+* **Transmission:** 4/5-speed manual; 3-speed automatic on selected 2WD grades
+* **Notes:** High-roof-only cargo body with dual sliding doors. PRO-B, PRO-T, STD and SDX used the exposed round headlamps shown here; SDX-II alone received rectangular halogen lamps. PRO-B is a two-seat load carrier and the rare PRO-T uses one front and one rear seat in tandem. Street L/X shared the body shell but added passenger trim, wind-down sliding-door windows and, on X, twin sunroofs.
 
 ## HH3 / HH4 - 660cc
 
@@ -48,8 +48,8 @@ The Acty Van used a mid-engine layout throughout production, with the engine mou
 * **Production:** 1990-1999
 * **Engine:** E07A 656cc SOHC 12-valve I3, carburettor (38 PS); PGM-FI on SDX-Hi (44 PS)
 * **Drivetrain:** RWD (HH3); Real Time 4WD (HH4)
-* **Transmission:** 4/5-speed manual
-* **Notes:** More capable 660cc version, facelifted in 1994. Power steering and air conditioning were available on some grades; Street models offered a more passenger-focused interior.
+* **Transmission:** 4/5-speed manual; 3-speed automatic on selected 2WD grades
+* **Notes:** The March 1990 update lengthened the nose by 20mm and gave all Acty Vans rectangular halogen lamps and a larger bumper. A January 1994 facelift introduced the larger chamfered lamps shown in the photograph; indicators changed from amber to clear in 1996. Power steering and air conditioning were available on some grades. Street L/G/EX and later V/Xi models were passenger derivatives, not Acty Van trim levels.
 
 # 3rd Generation
 
