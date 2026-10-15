@@ -10,8 +10,11 @@ The N-VAN replaced the Acty Van as Honda's kei commercial van. Unlike the Acty's
 # 1st Generation
 
 ## JJ1 / JJ2
-**Production:** 2018-present
-**Engine:** S07B 658cc DOHC 12-valve I3, PGM-FI (53 PS)
-**Drivetrain:** FWD (JJ1); 4WD (JJ2)
-**Transmission:** 6-speed manual
-**Notes:** Low cargo floor, folding passenger and rear seats, and a pillarless passenger-side opening. Air conditioning, front disc brakes, dual airbags, ABS and stability control are standard. Honda Sensing is fitted to most versions, but manuals omit some functions. From 2024, the manual was limited to G and FUN grades.
+
+![](images/n-van-jj1.jpg)
+
+* **Production:** 2018-present
+* **Engine:** S07B 658cc DOHC 12-valve I3, PGM-FI (53 PS)
+* **Drivetrain:** FWD (JJ1); 4WD (JJ2)
+* **Transmission:** 6-speed manual
+* **Notes:** Low cargo floor, folding passenger and rear seats, and a pillarless passenger-side opening. Air conditioning, front disc brakes, dual airbags, ABS and stability control are standard. Honda Sensing is fitted to most versions, but manuals omit some functions. From 2024, the manual was limited to G and FUN grades.
